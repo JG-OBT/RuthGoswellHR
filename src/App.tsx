@@ -17,6 +17,7 @@ import {
   ChevronDown
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
+import ruth from './ruth.png';
 
 // --- Components ---
 
@@ -229,10 +230,10 @@ export default function App() {
           >
             <div className="aspect-[4/5] rounded-[40px] overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=1000" 
-                alt="Ruth Goswell HR Professional" 
-                className="w-full h-full object-cover"
-                referrerPolicy="no-referrer"
+                src={ruth}
+  alt="Ruth Goswell HR Professional" 
+  className="w-full h-full object-cover"
+/>
               />
             </div>
             {/* Floating Badge */}
