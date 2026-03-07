@@ -234,7 +234,7 @@ export default function App() {
   alt="Ruth Goswell HR Professional" 
   className="w-full h-full object-cover"
 />
-              />
+              </div>
             </div>
             {/* Floating Badge */}
             <div className="absolute -bottom-6 -left-6 glass-card p-6 rounded-2xl max-w-[200px]">
