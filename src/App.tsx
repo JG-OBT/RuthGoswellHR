@@ -17,7 +17,7 @@ import {
   ChevronDown
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
-import ruth from './ruth.png';
+import ruth from './ruth.jpg';
 
 // --- Components ---
 
