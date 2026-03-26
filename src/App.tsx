@@ -581,7 +581,7 @@ export default function App() {
         </div>
 
         <div className="max-w-7xl mx-auto pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-500">
-          <p>© 2024 Ruth Goswell HR. All rights reserved.</p>
+          <p>© 2026 Ruth Goswell HR. All rights reserved.</p>
           <p>Registered in England & Wales. CIPD Member.</p>
         </div>
       </footer>
